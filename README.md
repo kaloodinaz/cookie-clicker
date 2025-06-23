@@ -21,7 +21,7 @@ Cookie Clicker is a simple yet highly addictive clicker game. Start by clicking 
 
 ## 📸 Screenshot
 
-![Cookie Clicker Screenshot](https://kaloodinaz.github.io/cookie-clicker/cookieclicker-screenshot.png)
+![Cookie Clicker Screenshot](https://kaloodinaz.github.io/cookie-clicker/cookieclicker-screenshot.jpg)
 
 ## 🛠️ Technologies Used
 
